@@ -1,2 +1,2 @@
-# Hororscope_Predictor
-A simple fun Windows Forms hororscope predictor application
+# Horoscope_Predictor
+A simple fun Windows Forms horoscope predictor application
