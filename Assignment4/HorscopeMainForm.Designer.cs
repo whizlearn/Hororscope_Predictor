@@ -239,7 +239,7 @@
             this.MainMenuStrip = this._mnuStrip;
             this.Name = "_frmHorscopeMainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Horscope 1.0";
+            this.Text = "Horoscope 1.0";
             this.Activated += new System.EventHandler(this._frmHorscopeMainForm_Activated);
             this._mnuStrip.ResumeLayout(false);
             this._mnuStrip.PerformLayout();
